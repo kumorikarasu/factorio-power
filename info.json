@@ -1,0 +1,10 @@
+{
+  "name": "kumori-power",
+  "version": "0.1.0",
+  "title": "Kumori's Power Module",
+  "author": "kumori",
+  "contact": "kumori@ryougi.com",
+  "homepage": "N/A",
+  "description": "Adds additional way to generate power",
+  "dependencies": ["kumori-core"]
+}
